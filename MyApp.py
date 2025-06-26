@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 from joblib import load
 
-st.title('Expresso churn')
+st.title('Expresso churn ')
 region=st.number_input('REGION')
 montant=st.number_input('MONTANT')
 frequence=st.number_input('FREQUENCE_RECH')
