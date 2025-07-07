@@ -1,5 +1,4 @@
 import streamlit as st
-import pickle
 from joblib import load
 
 st.title('Expresso churn')
