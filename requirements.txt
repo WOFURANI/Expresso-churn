@@ -1,4 +1,2 @@
-streamlit
-scikit-learn
-matplotlib
-joblib
+streamlit~=1.45.1
+joblib~=1.5.1
